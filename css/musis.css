@@ -102,7 +102,7 @@ body:has(#anMusic-page) #nav-music {
   margin: auto;
   left: 0;
   right: 0;
-  bottom: 50px;
+  bottom: -40px;
 }
 #anMusic-page .aplayer-info .aplayer-controller .aplayer-bar-wrap {
   margin: 0 160px 0 150px;
@@ -310,7 +310,7 @@ body:has(#anMusic-page) .aplayer .aplayer-info .aplayer-controller .aplayer-time
     margin: 0 30px;
   }
   #anMusic-page .aplayer-info .aplayer-time {
-    bottom: -40px;
+    bottom: -50px;
   }
   #anMusic-page .aplayer-info .aplayer-time .aplayer-time-inner {
     position: absolute;
